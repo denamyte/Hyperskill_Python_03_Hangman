@@ -73,5 +73,9 @@ files:
         CoffeeMachineTest('hangman.hangman').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/69/stages/373/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/69/stages/373/implement">JetBrains
+    Academy</a>
+  time: Sat, 07 Nov 2020 01:10:52 UTC
 record: -1
